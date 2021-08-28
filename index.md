@@ -1,4 +1,4 @@
-# This is Header 1
+# Meet's First CS193 Homework
 
 ## Welcome to GitHub Pages
 
