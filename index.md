@@ -2,6 +2,18 @@
 - The class is taught by very smart people :L)
 - CS193 is not too difficult but hopefully it is still informative :D
 - CS classes are more interesting than other classes anyways.
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
